@@ -1,0 +1,35 @@
+# 近屿智能课程助手依赖
+# 版本: 1.0.0
+# python版本: 3.10
+# 最后更新: 2025-08-18
+
+# 核心框架
+gradio
+
+# AI处理
+langchain
+langchain-community
+openai
+chromadb
+tiktoken
+
+# 文件处理
+pypdf
+python-docx
+python-pptx
+beautifulsoup4
+nbformat
+docx2txt
+unstructured[docx]
+unstructured[pdf]
+
+# 数据库与数据处理
+sqlalchemy
+python-dotenv
+
+# 系统工具
+psutil
+requests
+
+# 其他工具
+python-dateutil==2.9.0.post0
